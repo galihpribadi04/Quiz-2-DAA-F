@@ -1,3 +1,4 @@
 # Quiz-2-DAA-F
-Submission for Quiz 2 DAA (F) Raja Permata Boy &amp; Argo Galih 
-ashiaapppp
+Submission for Quiz 2 DAA (F) 
+- Argo Galih Pribadi (05111740000150)
+- Raja Permata Boy (05111740000070)
